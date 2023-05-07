@@ -1,0 +1,21 @@
+pagina 4
+
+contato
+
+repete cabecalho
+
+repete links principal- quem sou - projetos - contato
+
+linha separando
+
+contato
+
+4 marcadores <li>
+
+residente em colatina/ES
+
+delson.liberato@gmail.com
+
+27 996441354
+
+linkedln delson liberato

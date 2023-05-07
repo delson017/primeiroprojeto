@@ -1,0 +1,40 @@
+documento html
+pagina 1
+index.html
+title principal
+
+
+cabeçalho fvg cor azul
+
+link - principal - quem sou - projetos - contato
+
+linha separando
+
+<p> olá,
+ E sou delson
+
+imagem fgv
+
+texto 
+Crio aplicações web que proporcionam uma ótima experiência de navegação para o usuário
+
+linha cortando
+
+texto
+O que você vai encontrar aqui:
+
+principal link
+ esta página em que você se encontra, contendo um resumo de todo o site.
+
+quem sou link
+ uma minibio de minha vida profissional com um resumo de minhas habilidades.
+
+projetos link
+ os trabalhos mais relevantes em que atuei como designer e/ou desenvolvedor web.
+
+contatos link
+ os canais para você me encontrar em redes sociais, e-mail e telefone.
+
+linha separando
+
+logo do ifes imagem fgv
